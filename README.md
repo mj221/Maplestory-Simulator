@@ -2,4 +2,4 @@
 Just a fun simulation of a famous MMORPG Maplestory Project made in game maker
 
 
-## Requires Game Maker Studio to run
+`Requires Game Maker Studio to run`
