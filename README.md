@@ -1,5 +1,5 @@
 # Maplestory-Simulator-2015-Discontinued-
-Just a fun simulation of a famous MMORPG Maplestory Project made in game maker
+Just a fun simulation of a famous MMORPG Maplestory Project made in Game Maker 8 Pro
 
 
-`Requires Game Maker Studio to run`
+`Debug and run through Game Maker 8`
